@@ -1,3 +1,4 @@
 yo
 line-from-[edited manually to merge from master & crazy]
 
+example of stashing
