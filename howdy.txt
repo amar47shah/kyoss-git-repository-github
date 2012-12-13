@@ -1,2 +1,3 @@
 yo
-line-from-master
+line-from-[edited manually to merge from master & crazy]
+
