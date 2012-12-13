@@ -1,0 +1,69 @@
+[33mcommit 6b7f21587157d264acebc7f96e766a95d0bf9a97[m
+Merge: 5b8c2e6 8099a5d
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 19:57:21 2012 -0500
+
+    Merge branch 'my-crazy-branch-1'
+    
+    Conflicts:
+    	howdy.txt
+
+[33mcommit 8099a5dd9ed480ff0b68f983871c14429c3d69d0[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 19:45:21 2012 -0500
+
+    added line from crazy
+
+[33mcommit 5b8c2e6455387e835d3ec8976050d8631f8282d3[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 19:44:36 2012 -0500
+
+    added line from master
+
+[33mcommit ea401f02fc30f0e7d206d53bb3445936bc9c6c0d[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 19:18:49 2012 -0500
+
+    goodbye update
+
+[33mcommit 3e89af8b5d3134f04b8bb1bef71618047a7dc4e9[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 19:17:37 2012 -0500
+
+    a few misc changes for my crazy branch
+
+[33mcommit d914fae88e64ff7049adaca1c6838e38ea112297[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 18:58:08 2012 -0500
+
+    happy again
+
+[33mcommit 6e9788dff2d5775f7738850c2c74d56d23316936[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 18:02:23 2012 -0500
+
+    sad panda
+
+[33mcommit 49970eec41eaa453ce6932e4f978ad9e8e7486ef[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 17:53:05 2012 -0500
+
+    Some variety
+
+[33mcommit 71befc40ac42cff72d82c1c47b7bf895b2d9aaaf[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 17:52:22 2012 -0500
+
+    I love hello
+
+[33mcommit c39c799ea859332c196e1e8586e3054bdd6c6664[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 17:49:40 2012 -0500
+
+    add more to hello
+
+[33mcommit 2915d6b650e1ca3c8ad8beb26831305f0be0a6ab[m
+Author: Amar Shah <amar47shah@gmail.com>
+Date:   Wed Dec 12 17:44:51 2012 -0500
+
+    Add hello/goodbye
